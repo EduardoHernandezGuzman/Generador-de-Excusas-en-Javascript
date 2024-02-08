@@ -1,4 +1,4 @@
-# "Generador de Excusas en Javascript" de EduardoHernandezGuzman
+# "Generador de Nombres de Dominios" de EduardoHernandezGuzman
 
 ## Un poco de información
 Quinto proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
